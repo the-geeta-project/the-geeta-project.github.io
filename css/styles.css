@@ -12,7 +12,7 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #f4f4f4;
+  background-color: #FF7722;
 }
 
 .topnav a {
@@ -137,6 +137,7 @@ font-weight: 700; /* font-family: 'Dancing Script', cursive;
   width: 100%;
   text-align: left;
 }
+
 
 /* main css */
 .name {
